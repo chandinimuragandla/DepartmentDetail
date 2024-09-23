@@ -1,0 +1,65 @@
+.container {
+  border: 2px solid rgb(231, 110, 11);
+  padding: 20px;
+  width: 300px;
+  margin-left: 5px;
+  border-radius: 10px;
+}
+.title {
+  text-align: center;
+  color: rgb(48, 147, 177);
+}
+.image-section {
+  margin: 10px 0;
+}
+.image-input {
+  width: 100%;
+}
+.field-container {
+  margin: 10px 0;
+}
+.input {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+  border-radius: 5px;
+  border: 1px solid rgb(201, 104, 104);
+}
+.submit-button {
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(156, 137, 224);
+  color: rgb(71, 50, 50);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.submit-button:hover{
+  background-color: green;
+  color: white;
+}
+.a{
+  text-align: center;
+  color: crimson;
+}
+.a2{
+  display: flex;
+  column-gap: 40px;
+}
+.a3{
+  display: flex;
+  justify-content: space-between;
+}
+.submitted-person {
+  margin-top: 20px;
+  border: 1px solid #eee;
+  padding: 15px;
+  width: 300px;
+  margin: 10px auto;
+  background-color: #aa8989;
+  border-radius: 5px;
+}
+.App{
+  border: 5px rgb(71, 11, 238) solid;
+  padding: 10px 10px;
+}
